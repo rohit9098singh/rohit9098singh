@@ -3,7 +3,8 @@
 
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align = "center" height = '500px'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit9098singh&label=Profile%20view&color=0e75b6&style=flat" alt="rohit9098singh" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="rohit9098singh" alt="rohit9098singh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit9098singh" alt="rohit9098singh" /></a> </p>
+
 - 🌱 I’m currently learning **JavaScript**
 <br>
 - 💬 Ask me about **anything related coding**<br>
